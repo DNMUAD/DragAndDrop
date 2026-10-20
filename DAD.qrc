@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/ListWidgetItem/Icon">
+        <file>test.png</file>
+    </qresource>
+    <qresource prefix="/DropWidget/bg">
+        <file>wave.png</file>
+    </qresource>
+</RCC>
